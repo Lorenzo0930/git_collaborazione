@@ -1,1 +1,1 @@
-"Contenuto di FeatureA" 
+"Contenuto di FeatureA dopo il commit sul branch 'Lorenzo'" 
