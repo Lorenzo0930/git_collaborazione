@@ -1,3 +1,3 @@
-riga 1
-riga 2
-riga 3
+colonna 1
+colonna 2
+colonna 3
