@@ -1,1 +1,1 @@
-"featureB" 
+"feature B modificato da Michele"
